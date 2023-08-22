@@ -5,7 +5,7 @@
 
 ### Технологии
 <p  align="center">
-  <code><img width="5%" title="Postman" src="images/logo/pycharmpostman.png"></code>
+  <code><img width="5%" title="Postman" src="logo/pycharmpostman.png"></code>
 
 ### Что делаем
 * Читаем документацию
@@ -19,30 +19,30 @@ ___
 ##### Согласно документации https://dummyapi.io/docs составляем запросы к каждому методу
 
 <p  align="center">
-  <code><img width="100%" title="Postman" src="images/screenshots/docs_user.png"></code>
+  <code><img width="100%" title="Postman" src="screenshots/docs_user.png"></code>
 </p>
 
 ##### К  https://dummyapi.io/data/v1/ для каждого запроса пишем свой эндпоинт и согласно документации заполняем запрос
 
 <p  align="center">
-  <code><img width="100%" title="Postman" src="images/screenshots/creating.png"></code>
+  <code><img width="100%" title="Postman" src="screenshots/creating.png"></code>
 </p>
 
 ##### Для создоваемых сущностей пропишем команду создания переменных в нашем окружении
 
 <p  align="center">
-  <code><img width="100%" title="Postman" src="images/screenshots/creat_data.png"></code>
+  <code><img width="100%" title="Postman" src="screenshots/creat_data.png"></code>
 </p>
 
 ##### А для того чтоб не вводить новые параметры при создании user, создаем генерируемые данные в Urlencoded 
 <p  align="center">
-  <code><img width="100%" title="Postman" src="images/screenshots/creat_random.png"></code>
+  <code><img width="100%" title="Postman" src="screenshots/creat_random.png"></code>
 </p>
 
 ##### Для каждого запроса создадим тесты проверки код статуса и для сущностей проверку в теле ответа и запускаем тест колекции.
 
 <p  align="center">
-  <code><img width="100%" title="Postman" src="images/screenshots/test_run.png"></code>
+  <code><img width="100%" title="Postman" src="screenshots/test_run.png"></code>
 </p>
 
 
