@@ -5,7 +5,7 @@
 
 ### Технологии
 <p  align="center">
-  <code><img width="5%" title="Postman" src="logo/pycharmpostman.png"></code>
+  <code><img width="5%" title="Postman" src="logo/postman.png"></code>
 
 ### Что делаем
 * Читаем документацию
@@ -36,7 +36,7 @@ ___
 
 ##### А для того чтоб не вводить новые параметры при создании user, создаем генерируемые данные в Urlencoded 
 <p  align="center">
-  <code><img width="100%" title="Postman" src="screenshots/creat_random.png"></code>
+  <code><img width="100%" title="Postman" src="screenshots/create_random.png"></code>
 </p>
 
 ##### Для каждого запроса создадим тесты проверки код статуса и для сущностей проверку в теле ответа и запускаем тест колекции.
