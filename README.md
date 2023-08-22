@@ -33,6 +33,9 @@ ___
 <p  align="center">
   <code><img width="100%" title="Postman" src="screenshots/creat_data.png"></code>
 </p>
+<p  align="center">
+  <code><img width="100%" title="Postman" src="screenshots/variables.png"></code>
+</p>
 
 ##### А для того чтоб не вводить новые параметры при создании user, создаем генерируемые данные в Urlencoded 
 <p  align="center">
